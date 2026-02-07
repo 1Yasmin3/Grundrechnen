@@ -1,6 +1,7 @@
 import tkinter as tk
 import random
 
+
 # Fenster
 fenster = tk.Tk()
 fenster.title("Zahlen-Spiel")
